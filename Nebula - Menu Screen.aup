@@ -4,10 +4,10 @@
 	<tags>
 		<tag name="ALBUM" value="Nebula Official Soundtrack"/>
 		<tag name="TITLE" value="Title Screen"/>
-		<tag name="Liscence" value="GNU Affero General Public Liscence V3.0+"/>
+		<tag name="Liscence" value="Creative Commons Attribution-ShareAlike 4.0 International"/>
 		<tag name="TRACKNUMBER" value="2"/>
-		<tag name="COMMENTS" value="Made by GammaThree for Nebula Development."/>
-		<tag name="ARTIST" value="GammaThree"/>
+		<tag name="COMMENTS" value="Made by DeltaFour for Nebula Development."/>
+		<tag name="ARTIST" value="DeltaFour"/>
 		<tag name="YEAR" value="2016"/>
 		<tag name="GENRE" value="Electronic"/>
 	</tags>
